@@ -1,0 +1,5 @@
+Este projeto implementa um Simulador de Caixa Eletrônico em Python, desenvolvido com foco na aplicação de conceitos intermediários de engenharia de software. A aplicação opera via terminal e oferece funcionalidades essenciais de sistemas bancários, incluindo consulta de saldo, operações de depósito e saque, com persistência de dados em arquivo, garantindo a integridade das informações entre execuções.
+
+A arquitetura do sistema adota uma abordagem modular e procedural, com separação explícita das responsabilidades entre interface do usuário, lógica de negócio e camada de persistência. O código incorpora tratamento de exceções, validação de entradas e controle de fluxo robusto, reduzindo falhas decorrentes de dados inválidos ou inconsistentes.
+
+O projeto demonstra a aplicação prática de boas práticas de programação, como reutilização de funções, encapsulamento de regras de negócio e organização do código, simulando um cenário realista de sistema financeiro simplificado e servindo como base para futuras extensões, como múltiplos usuários, persistência em banco de dados relacional ou refatoração para orientação a objetos.
